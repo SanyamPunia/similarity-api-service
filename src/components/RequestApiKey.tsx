@@ -67,7 +67,7 @@ const RequestApiKey = ({}) => {
           <Input
             readOnly
             value={apiKey ?? ""}
-            placeholder="Request and API key to display it here!"
+            placeholder="Request an API key to display it here!"
           />
         </div>
 
